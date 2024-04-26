@@ -1,6 +1,11 @@
 ## 1. 简介
 这是一个基于Python的Web项目，主要功能是抠图，界面框架使用[`gradio`](https://gradio.app/)库，去除背景的使用[`rembg`](https://github.com/danielgatis/rembg)库。
 
+## 2. Git仓库
+[Gitee仓库](https://gitee.com/zyw/rebg)
+
+[Github仓库](https://github.com/zyw/rebg)
+
 ## 2. 二次开发
 如果需要二次开发，可以参考以下步骤：
 
