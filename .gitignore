@@ -8,3 +8,5 @@ __pycache__
 .u2net/u2net_cloth_seg.onnx
 
 main.spec
+
+.idea/**
