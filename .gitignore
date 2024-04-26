@@ -1,0 +1,10 @@
+__pycache__
+.u2net/isnet-anime.onnx
+.u2net/isnet-general-use.onnx
+.u2net/silueta.onnx
+.u2net/u2netp.onnx
+.u2net/u2net_human_seg.onnx
+.u2net/u2net.onnx
+.u2net/u2net_cloth_seg.onnx
+
+main.spec
